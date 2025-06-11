@@ -59,7 +59,16 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/Z5cX.gif"  />
+<img src="https://i.gifer.com/Z5cX.gif" alt="goku-son" height="150" align="right" alt="goku-son" />
+
+<div style="clear: right;"></div>
+
+<div style="width: 150px; height: 2px; background-color: #ccc; margin: 4px 0 0 auto;"></div>
+
+<div style="clear: right;"></div>
+
+<img src="https://media.tenor.com/bHIDzZixRP8AAAAi/ippo-png.gif" alt="github logo" height="100" align="right" alt="ippo" />
+
 
 ###
 
@@ -72,7 +81,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://i.gifer.com/WgjM.gif"  />
+  <img height="350" src="https://i.gifer.com/WgjM.gif"  alt="dragon-sphere" />
 </div>
 
 ###
