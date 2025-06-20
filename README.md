@@ -95,4 +95,9 @@
   <img height="350" src="https://i.gifer.com/WgjM.gif"  alt="dragon-sphere" />
 </div>
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rootmannwright&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<!-- snake game -->
+![snake gif](https://github.com/rootmannwright/rootmannwright/blob/output/github-contribution-grid-snake.svg)
+
 ###
