@@ -22,12 +22,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rootmannwright.rootmannwright&"  />
+  <img src="https://count.getloli.com/@:rootmannwright?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
-<h1 align="center">Olá, mundo!</h1>
+<h3 align="center">Olá, mundo!</h3>
 
 ###
 
@@ -94,7 +94,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootmannwright&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rootmannwright&locale=pt-br&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rootmannwright&theme=lucent&area=false&hide_border=false&hide_title=false&radius=16" height="150" alt="activity-graph graph"  />
 </div>
