@@ -27,7 +27,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=000000&center=true&width=435&lines=Lucas+M.+Nascimento;Founder+and+C.E.O;Quadar+Inshallah+Co.+%26+Records;Backend+developer+%7C+Cibersecurity;MongoDB+%7C+MySQL+%7C+PHP;JavaScript+%7C+React+%7C+NodeJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=700&lines=Lucas+M.+Nascimento;Founder+and+C.E.O;Quadar+Inshallah+Co.+%26+Records;Backend+developer+%7C+Cibersecurity;MongoDB+%7C+MySQL+%7C+PHP;JavaScript+%7C+React+%7C+NodeJS)](https://git.io/typing-svg)
 
 ###
 
