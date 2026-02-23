@@ -50,12 +50,12 @@
       <p>
         <b>Tecnologias:</b> React • Node.js • MongoDB • Tailwind • JWT
       </p>
-      <a href="https://github.com/seu-usuario/quadar-inshallah-store">
+      <a href="https://github.com/rootmannwright/quadar-inshallah-store">
         🔗 Ver repositório
       </a>
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/seu-usuario/quadar-inshallah-store/main/.github/preview.png" />
+      <img src="https://raw.githubusercontent.com/rootmannwright/rootamnnwright/main/.github/logo_quadar_inshallah_letreiro.png" width="900" />
       <!-- add image preview into project -->
     </td>
   </tr>
