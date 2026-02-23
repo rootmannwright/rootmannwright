@@ -27,17 +27,40 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=000000&center=true&width=435&lines=Lucas+M.+Nascimento;Founder+and+C.E.O;Quadar+Inshallah+Co.+%26+Records;Backend+developer+%7C+Cibersecurity;MongoDB+%7C+MySQL+%7C+PHP;JavaScript+%7C+React+%7C+NodeJS)](https://git.io/typing-svg)
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">Sou Lucas, sou desenvolvedor  de software e engenheiro de cibersegurança e:<br><br>- 🔭Recentemente atuo como Fundador e C.E.O na Quadar Inshallah Co. & Records<br>- 📚 Estou aprendendo Java, Deploys com CDNs e Clusters e Russo.<br>- ⚡ No meu tempo livre gosto de ler, estudar, escrever, jogar games, assistir filmes, séries e praticar atividades físicas como boxe e corrida.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=000000&width=435&lines=Lucas+M.+Nascimento;Backend+Developer+%7C+Fullstack;Cibersecurity+%7C+MongoDB+%7C+React;JavaScript+%7C+HTML+%7C+CSS+%7C+NodeJS;Docker+%7C+Kubernetes)](https://git.io/typing-svg)
+<p align="left"> 🔭Recentemente atuo como Fundador e C.E.O na Quadar Inshallah Co. & Records<br>- 📚 Estou aprendendo Java, Deploys com CDN, clusters e ousso.<br>- ⚡ No meu tempo livre gosto de ler, estudar, escrever, jogar games, assistir filmes, séries e praticar atividades físicas como boxe e corrida.</p>
 
 ###
+
+## 🚀 Principais Projetos
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛍️ Quadar Inshallah Store</h3>
+      <p>
+        E-commerce fullstack com React, Node.js, MongoDB, autenticação JWT e Stripe.
+      </p>
+      <p>
+        <b>Tecnologias:</b> React • Node.js • MongoDB • Tailwind • JWT
+      </p>
+      <a href="https://github.com/seu-usuario/quadar-inshallah-store">
+        🔗 Ver repositório
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/seu-usuario/quadar-inshallah-store/main/.github/preview.png" />
+      <!-- add image preview into project -->
+    </td>
+  </tr>
+</table>
+<hr>
 
 <h3 align="left">🛠 Language and tools</h3>
 
