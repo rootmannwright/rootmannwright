@@ -34,7 +34,7 @@
 
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=000000&width=435&lines=Lucas+M.+Nascimento;Backend+Developer+%7C+Fullstack;Cibersecurity+%7C+MongoDB+%7C+React;JavaScript+%7C+HTML+%7C+CSS+%7C+NodeJS;Docker+%7C+Kubernetes)](https://git.io/typing-svg)
-<p align="left"> 🔭Recentemente atuo como Fundador e C.E.O na Quadar Inshallah Co. & Records<br>- 📚 Estou aprendendo Java, Deploys com CDN, clusters e ousso.<br>- ⚡ No meu tempo livre gosto de ler, estudar, escrever, jogar games, assistir filmes, séries e praticar atividades físicas como boxe e corrida.</p>
+<p align="left"> 🔭Recentemente atuo como Fundador e C.E.O na Quadar Inshallah Co. & Records<br>- 📚 Estou aprendendo Java, Deploys com CDN, clusters e russo.<br>- ⚡ No meu tempo livre gosto de ler, estudar, escrever, jogar games, assistir filmes, séries e praticar atividades físicas como boxe e corrida.</p>
 
 ###
 
