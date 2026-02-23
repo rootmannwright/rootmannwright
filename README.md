@@ -27,7 +27,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=700&lines=Lucas+M.+Nascimento;Founder+and+C.E.O;Quadar+Inshallah+Co.+%26+Records;Backend+developer+%7C+Cibersecurity;MongoDB+%7C+MySQL+%7C+PHP;JavaScript+%7C+React+%7C+NodeJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=000000&center=true&width=435&lines=Lucas+M.+Nascimento;Founder+and+C.E.O;Quadar+Inshallah+Co.+%26+Records;Backend+developer+%7C+Cibersecurity;MongoDB+%7C+MySQL+%7C+PHP;JavaScript+%7C+React+%7C+NodeJS)](https://git.io/typing-svg)
 
 ###
 
@@ -92,10 +92,16 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rootmannwright&locale=pt-br&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rootmannwright&theme=lucent&area=false&hide_border=false&hide_title=false&radius=16" height="150" alt="activity-graph graph"  />
+
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rootmannwright?cardType=github&fontFamily=&preferLogin=false&Ring=000000&Title=000000)](https://git.io/awesome-stats-card)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-blue)
+![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)
+![React](https://img.shields.io/badge/React-★★★☆☆-cyan)
+
 </div>
 
 ###
