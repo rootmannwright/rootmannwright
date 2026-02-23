@@ -1,5 +1,5 @@
-<div align="left">
-  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJueWR3d3pkajU5Z3pheXNvcWRrdnoxbThmeGxmY3l5NzJjMm9ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vw134TjUXt6fO9W1GO/giphy.gif"  />
+<div align="center">
+  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFnbXQzNXMwMmF5eG0zOGM1OGNnOTZjczA5b2NuOG84bm9yZnd6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MydsdpcJXvGywkH0iE/giphy.gif"  />
 </div>
 
 ###
@@ -22,12 +22,12 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:rootmannwright?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@rootmannwright?name=rootmannwright&theme=nixietube-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
-<h3 align="center">Olá, mundo!</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=000000&center=true&width=435&lines=Lucas+M.+Nascimento;Founder+and+C.E.O;Quadar+Inshallah+Co.+%26+Records;Backend+developer+%7C+Cibersecurity;MongoDB+%7C+MySQL+%7C+PHP;JavaScript+%7C+React+%7C+NodeJS)](https://git.io/typing-svg)
 
 ###
 
