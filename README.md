@@ -55,7 +55,7 @@
       </a>
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/rootmannwright/rootamnnwright/main/.github/logo_quadar_inshallah_letreiro.png" width="900" />
+      <img src=".github/logo_quadar_inshallah_letreiro.png" alt="Quadar Inshallah Logo" width="600" />
       <!-- add image preview into project -->
     </td>
   </tr>
