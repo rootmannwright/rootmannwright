@@ -1,39 +1,41 @@
-name: Update README cards
-
-permissions:
-  contents: write
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *" # runs every day at 03:00 UTC
+    - cron: '0 0 * * *'  
   workflow_dispatch:
 
 jobs:
-  build:
+  update-stats:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      # 1️⃣ Faz checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true 
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: '20'
 
-      - name: Commit cards
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Stats
+        run: |
+          # Exemplo para GitHub Readme Stats
+          npx github-readme-stats --user rootmannwright --repo rootmannwright --output profile/stats.svg
+          npx github-readme-stats --user rootmannwright --repo rootmannwright --top-langs --output profile/top-langs.svg
+
+      - name: Commit and Push
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.email "github-actions@github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README cards" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
