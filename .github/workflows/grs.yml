@@ -26,8 +26,8 @@ jobs:
       - name: Generate Stats via API
         run: |
           mkdir -p profile
-          curl -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=rootmannwright&show_icons=true&theme=radical"
-          curl -s -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=rootmannwright&layout=compact&theme=radical"
+          curl -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=rootmannwright&show_icons=true&theme=radical&cache_seconds=1800"
+          curl -s -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=rootmannwright&layout=compact&theme=radical&cache_seconds=1800"
 
       - name: Commit and Push
         run: |
