@@ -126,7 +126,12 @@
 ![React](https://img.shields.io/badge/React-★★★☆☆-cyan)
 </div>
 
+<div align=center>
+
 ![Top Languages](./profile/top-langs.svg)
+
+</div>
+
 
 ###
 
