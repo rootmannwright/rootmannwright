@@ -118,7 +118,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rootmannwright&locale=pt-br&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rootmannwright?cardType=github&fontFamily=&preferLogin=false&Ring=000000&Title=000000)](https://git.io/awesome-stats-card)
+![Stats](./profile/stats.svg)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-blue)

@@ -28,8 +28,8 @@ jobs:
 
       - name: Generate Stats
         run: |
-          npx github-readme-stats --user rootmannwright --repo rootmannwright --theme radical --output profile/stats.svg
-          npx github-readme-stats --user rootmannwright --repo rootmannwright --theme radical --top-langs --output profile/top-langs.svg
+          npx github-readme-stats --user rootmannwright --repo rootmannwright --theme solarized-light --output profile/stats.svg
+          npx github-readme-stats --user rootmannwright --repo rootmannwright --theme solarized-light --top-langs --output profile/top-langs.svg
 
       - name: Commit and Push
         run: |
