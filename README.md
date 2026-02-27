@@ -124,8 +124,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)
 ![React](https://img.shields.io/badge/React-★★★☆☆-cyan)
-[![wakatime](https://wakatime.com/badge/user/b227c740-aef6-42c4-a851-d01464a7b4b8/project/dc6e7012-c4c1-4002-b651-7c3e410d55d2.svg)](https://wakatime.com/badge/user/b227c740-aef6-42c4-a851-d01464a7b4b8/project/dc6e7012-c4c1-4002-b651-7c3e410d55d2)
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
