@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite
   workflow_dispatch:
 
 permissions:
@@ -13,24 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Faz checkout do repositório
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true
+          persist-credentials: true  # permite push usando GITHUB_TOKEN
 
+      # 2️⃣ Setup Node.js (não obrigatório se não usar npm, mas mantém compatibilidade)
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        run: npm install
-
+      # 3️⃣ Gera os badges via API (tema radical aplicado)
       - name: Generate Stats via API
-  run: |
-    curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=rootmannwright&show_icons=true&theme=radical"
-    curl -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=rootmannwright&layout=compact&theme=radical"
+        run: |
+          mkdir -p profile
+          curl -s -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=rootmannwright&show_icons=true&theme=radical"
+          curl -s -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=rootmannwright&layout=compact&theme=radical"
 
+      # 4️⃣ Commit e push
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
@@ -38,3 +40,5 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
