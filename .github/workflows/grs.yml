@@ -26,10 +26,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate Stats
-        run: |
-          npx github-readme-stats --user rootmannwright --repo rootmannwright --theme solarized-light --output profile/stats.svg
-          npx github-readme-stats --user rootmannwright --repo rootmannwright --theme solarized-light --top-langs --output profile/top-langs.svg
+      - name: Generate Stats via API
+  run: |
+    curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=rootmannwright&show_icons=true&theme=radical"
+    curl -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=rootmannwright&layout=compact&theme=radical"
 
       - name: Commit and Push
         run: |
