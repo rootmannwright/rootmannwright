@@ -56,7 +56,6 @@
     </td>
     <td width="50%">
       <img src=".github/logo_quadar_inshallah_letreiro.png" alt="Quadar Inshallah Logo" width="600" />
-      <!-- add image preview into project -->
     </td>
   </tr>
 </table>
@@ -116,7 +115,7 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rootmannwright&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rootmannwright&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 ![Stats](./profile/stats.svg)
 
