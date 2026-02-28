@@ -30,7 +30,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=radical
-          path: profile/languages.svg
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ===== COMMIT =====
