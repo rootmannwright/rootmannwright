@@ -123,7 +123,7 @@
 <p align="center">
 
 <img alt="Stats" src="./profile/stats.svg" />
-<img alt="Stats" src="./profile/stats.svg" />
+<img alt="Stats" src="./profile/top-langs.svg" />
 
 </p>
 
