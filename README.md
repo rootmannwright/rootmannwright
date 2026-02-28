@@ -27,12 +27,12 @@
 
 ###
 
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=000000&width=435&lines=Lucas+M.+Nascimento;Backend+Developer+%7C+Fullstack;Cibersecurity+%7C+MongoDB+%7C+React;JavaScript+%7C+HTML+%7C+CSS+%7C+NodeJS;Docker+%7C+Kubernetes)](https://git.io/typing-svg)
 <p align="left"> 🔭Recentemente atuo como Fundador e C.E.O na Quadar Inshallah Co. & Records<br>- 📚 Estou aprendendo Java, Deploys com CDN, clusters e russo.<br>- ⚡ No meu tempo livre gosto de ler, estudar, escrever, jogar games, assistir filmes, séries e praticar atividades físicas como boxe e corrida.</p>
 
@@ -114,6 +114,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rootmannwright&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 
@@ -121,12 +122,10 @@
 
 <p align="center">
 
-  ![Stats](profile/stats.svg)
+<img alt="Stats" src="./profile/stats.svg" />
+<img alt="Stats" src="./profile/stats.svg" />
 
-![Languages](profile/languages.svg)
 </p>
-
-![Teste](https://via.placeholder.com/300x200)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-blue)
