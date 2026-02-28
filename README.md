@@ -117,18 +117,17 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rootmannwright&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 
-![Stats](./profile/stats.svg)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="profile/stats.svg" width="48%" />
+  <img src="profile/languages.svg" width="48%" />
+</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)
 ![React](https://img.shields.io/badge/React-★★★☆☆-cyan)
-</div>
-
-<div align=center>
-
-![Top Languages](./profile/top-langs.svg)
-
 </div>
 
 
