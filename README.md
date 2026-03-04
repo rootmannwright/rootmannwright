@@ -129,9 +129,10 @@
 </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)
 ![React](https://img.shields.io/badge/React-★★★☆☆-cyan)
+![Java](https://img.shields.io/badge/Java-★☆☆☆☆-brown)
 </div>
 
 ###
