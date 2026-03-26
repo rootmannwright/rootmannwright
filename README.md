@@ -50,7 +50,7 @@
       <p>
         <b>Tecnologias:</b> React • Node.js • MongoDB • TailwindCSS • JWT • Firebase • Cloud • Jest
       </p>
-      <a href="https://github.com/rootmannwright/zquadar_inshallah_store">
+      <a href="https://github.com/rootmannwright/quadar_inshallah_store">
         🔗 Ver repositório
       </a>
       <br>
