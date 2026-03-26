@@ -48,14 +48,35 @@
         E-commerce fullstack com React, Node.js, MongoDB, autenticação JWT e Stripe.
       </p>
       <p>
-        <b>Tecnologias:</b> React • Node.js • MongoDB • Tailwind • JWT
+        <b>Tecnologias:</b> React • Node.js • MongoDB • TailwindCSS • JWT • Firebase • Cloud • Jest
       </p>
-      <a href="https://github.com/rootmannwright/quadar_inshallah_store">
+      <a href="https://github.com/rootmannwright/zquadar_inshallah_store">
         🔗 Ver repositório
       </a>
+      <br>
+      <strong>Tags:</strong>
     </td>
     <td width="50%">
       <img src=".github/logo_quadar_inshallah_letreiro.png" alt="Quadar Inshallah Logo" width="600" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛍️ Quadar Inshallah Headshop</h3>
+      <p>
+        E-commerce fullstack com Java, SpringBoot, MySQL, e Stripe.
+      </p>
+      <p>
+        <b>Tecnologias:</b> Java • Spring • SpringBoot • React • JWT • MySQL • Firebase • OAuth • TailwindCSS
+      </p>
+      <a href="https://github.com/rootmannwright/quadar_inshallah_headshop">
+        🔗 Ver repositório
+      </a>
+      <br>
+      <strong>Tags:</strong>
+    </td>
+    <td width="50%">
+      <img src=".github/felix_the_cat_hitting_a_bong_new_layout.png" alt="Quadar Inshallah Logo" width="600" />
     </td>
   </tr>
 </table>
@@ -127,7 +148,6 @@
 <img alt="Top Langs" src="./profile/top-langs.svg" />
 
 </p>
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-blue)
