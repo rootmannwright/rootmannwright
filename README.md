@@ -64,7 +64,7 @@
     <td width="50%">
       <h3>🛍️ Quadar Inshallah Headshop</h3>
       <p>
-        E-commerce fullstack com Java, SpringBoot, MySQL, e Stripe.
+        E-commerce fullstack com Java, SpringBoot, MySQL, JWT e Stripe.
       </p>
       <p>
         <b>Tecnologias:</b> Java • Spring • SpringBoot • React • JWT • MySQL • Firebase • OAuth • TailwindCSS
